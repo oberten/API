@@ -19,8 +19,7 @@ public class Main {
         post.surname = "Иванов";
         post.subscription = true;
 
-
-        // заполните другие поля
+        
     }
 }
 
